@@ -21,7 +21,7 @@
 <br>
 <h3 align="center">Languages</h3>
 <p align="center">
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://skillicons.dev/icons?i=c"/></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" {:target="_blank"}><img src="https://skillicons.dev/icons?i=c"/></a>
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py"/></a>
