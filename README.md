@@ -34,7 +34,7 @@
 <br> 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
+  <a href="https://developer.android.com/" {:target="_blank"}><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
   <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://skillicons.dev/icons?i=clion"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm"/></a>
