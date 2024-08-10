@@ -21,28 +21,28 @@
 <br>
 <h3 align="center">Languages</h3>
 <p align="center">
-<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c"/></a>
-<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://skillicons.dev/icons?i=js"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/></a>
-<a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"/></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue"/></a>
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php"/></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://skillicons.dev/icons?i=c"/></a>
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py"/></a>
+<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://skillicons.dev/icons?i=css"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php"/></a>
 </p>
 <br> 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
-  <a href="https://www.jetbrains.com/clion/"><img src="https://skillicons.dev/icons?i=clion"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea"/></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio"/></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"/></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"/></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase"/></a>
+  <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://skillicons.dev/icons?i=clion"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"/></a>
 </p>
 <br> <br> <br>
 <div align="center">
