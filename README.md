@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hirun_0" target="blank"><img src="https://img.shields.io/twitter/follow/hirun_0?logo=twitter&style=for-the-badge" alt="hirun_0" /></a> </p>
 
-- 🔭 I’m currently working on [Ayur Android Application]("https://github.com/hirunch/Ayur_App)
+- 🔭 I’m currently working on [Ayur Android Application](https://github.com/hirunch/Ayur_App)
 
 - 🌱 I’m currently learning **Javascript, Java, Python and C**
 
